@@ -1,5 +1,5 @@
 // CSS.
-import 'https://github.com/pankaj-kb/app/blob/f1e26813a729e255c5d459de581dae6a30cbe00f/src/assets/styles.css'
+import './styles.css'
 import './main.css'
 
 //Day.js
