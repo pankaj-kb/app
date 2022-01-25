@@ -1,5 +1,5 @@
 // CSS.
-import '/src/vue-wallet-manual/styles.css'
+import '/home/magma/solana-twitter/app/node_modules/@solana/wallet-adapter-vue-ui/styles.css'
 import './main.css'
 
 //Day.js
